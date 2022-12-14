@@ -1,0 +1,1 @@
+export const getTotal = (nums = []) => nums.reduce((a, b) => a + b, 0)
