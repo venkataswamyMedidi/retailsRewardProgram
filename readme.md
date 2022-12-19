@@ -8,3 +8,6 @@ install using
 Run following commands in terminal
 # yarn start-server
 # yarn start
+
+# npm run start-server
+# npm start
